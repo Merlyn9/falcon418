@@ -1,0 +1,11 @@
+start.txt
+
+
+So I have a bad habit of reloading my OS every other week.
+Really and truthfully everybody should.  
+So I bounce back and forth on the most recent versions of Ubuntu and Kali Linux
+I wrote scripts to run and install all of my "dependencies", so the down time 
+between OS's was minimal.  It worked, I just got together all of the basic tools
+I use and wrote them into a bash script. Each time I switch there are issues.
+But I can mention them as they come up. 
+Hear about it here then watch the video on youtube.
