@@ -1,3 +1,4 @@
 # falcon418
 Follow for more
-www.merlyndevelops@gmail.com
+www.merlyndevelops.com
+email: merlyndevelops@gmail.com
