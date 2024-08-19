@@ -2,10 +2,20 @@ How to stay secure
 
 
 So I have a bad habit of reloading my OS every other week.
-Really and truthfully everybody should.  
+Really and truthfully everybody should, also do a clean install of new OS.
 So I bounce back and forth on the most recent versions of Ubuntu and Kali Linux
 I wrote scripts to run and install all of my "dependencies", so the down time 
 between OS's was minimal.  It worked, I just got together all of the basic tools
 I use and wrote them into a bash script. Each time I switch there are issues.
 But I can mention them as they come up. 
-Hear about it here then watch the video on youtube.
+ So if you cycle user accounts and passwords you can break links that a hacker can
+  get at you with through the web.  I like to use Kali Linux, Ubuntu Desktop, and Ubuntu Server, 
+  the most up to date versions if at all possible.
+
+  I also use 2 flash writers, Balena Etcher and Raspberry Pi Imager.  I use Raspberry Pi Imager when I 
+  can't open Balena Etcher when I am in Kali Linux.
+  I put both operating systems on my Raspberry Pi, my two laptops, and a couple of towers I have laying around.
+  Sometimes there is a little friction when I change, the trade off is that every issue I learn a new fix.
+  Google is there for me and that is the best way thus far to find answers to problems you don't know.
+  All developers use google.
+
