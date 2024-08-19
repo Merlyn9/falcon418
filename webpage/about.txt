@@ -1,0 +1,2 @@
+This folder is about website creation and documenting the process and practice of uploading changes to github.
+I want to share this to also help the numbers on my github.
