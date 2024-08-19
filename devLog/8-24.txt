@@ -1,0 +1,5 @@
+devLog/8-24.txt
+#I have started this github repo not only to capture my work, but to build a corpus of work I could present from if I so needed.
+I have many ideas spinning in my head, and its easy to get confused, so running my ideas into a version control software is gonna do great.
+I can see my ideas come to life.spin up a couple servers if I must.  I dont't know why I didn't think of it sooner.
+
