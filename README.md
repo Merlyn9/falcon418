@@ -12,4 +12,5 @@ I just realized I am creating a code base that I can download from the internet 
 Then extract that file on my computer or other device.
 
 If you or you know somebody who wnats to learn go here to learn more about JavaScript<br>
-https://developer.mozilla.org/en-US/curriculum/
+https://developer.mozilla.org/en-US/curriculum/<br>
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide
