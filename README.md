@@ -10,3 +10,6 @@ My favorite OS's are Kali Linux and Ubuntu Desktop and Server
 
 I just realized I am creating a code base that I can download from the internet in a zip file.
 Then extract that file on my computer or other device.
+
+If you or you know somebody who wnats to learn go here to learn more about JavaScript
+https://developer.mozilla.org/en-US/curriculum/
