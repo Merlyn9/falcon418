@@ -6,7 +6,7 @@ sudo install apt-show-versions debsums apt-listbugs rkhunter chkrootkit -y
 sudo snap install code --classic -y
 sudo snap install postman -y
 sudo apt install wireshark -y
-
+sudo apt install lynis -y
 sudo apt-get install apache2 -y
 sudo apt install postgresql
 sudo apt install python3-venv python3-pip -y
