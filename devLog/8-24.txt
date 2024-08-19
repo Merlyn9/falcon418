@@ -4,4 +4,6 @@ I have many ideas spinning in my head, and its easy to get confused, so running 
 I can see my ideas come to life.spin up a couple servers if I must.  I dont't know why I didn't think of it sooner.
 
 #I think its great great idea to sanitize your desktop every fortnight. I keep all of my important things on a removable HardDrive with a capacity of 2TB.
-it works out and as long as I use linux, nothing special to access my data.  I use Kali Linux and Ubuntu Desktop or server.  With the security in mind to harden the system better each time you reset it. I am using Lynis and watching the reports to better the system.  Lynis is a great tool for the cybersecurity arena.
+it works out and as long as I use linux, nothing special to access my data.  I use Kali Linux and Ubuntu Desktop or server.  
+With the security in mind to harden the system better each time you reset it. I am using Lynis and watching the reports to
+ better the system.  Lynis is a great tool for the cybersecurity arena.
