@@ -1,0 +1,25 @@
+LAPP Stack
+
+Linux https://ubuntu.com/download/server#manual-install
+Apache https://ubuntu.com/tutorials/install-and-configure-apache#1-overview
+PostgreSQL https://ubuntu.com/server/docs/install-and-configure-postgresql
+Python update and confirmation on pip.
+
+or
+PHP https://ubuntu.com/server/docs/how-to-install-and-configure-php
+
+LAMP Stack
+Linux https://ubuntu.com/download/server#manual-install
+Apache https://ubuntu.com/tutorials/install-and-configure-apache#1-overview
+MYSQL https://ubuntu.com/server/docs/install-and-configure-a-mysql-server
+PHP https://ubuntu.com/server/docs/how-to-install-and-configure-php
+    https://ubuntu.com/server/docs/how-to-install-and-configure-phpmyadmin
+    or
+Python update and confirmation on pip
+
+I chose to work with Linux, Apache, postgreSQL and Python, only becasue 
+I saw there was an oppurtunity for Python. 
+ I am big on Linux since I started playing around with it 4 years ago.
+ Its my favorite, it has so many flavors of distrobution and is widely used.
+ It is also open source, which make it free.  I have tried to do all my developer stuff
+ as free as I can. There is alot out there.  You just have to find it.
