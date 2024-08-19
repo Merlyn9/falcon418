@@ -19,3 +19,11 @@ But I can mention them as they come up.
   Google is there for me and that is the best way thus far to find answers to problems you don't know.
   All developers use google.
 
+  So in order to keep the down-time to a minimum I wrote a script to install all of my tools everytime I switched the OS.
+
+  The first thing after installing a new OS every single time is an update and upgrade.
+  I like Nmap, Git, VS Code, wireshark, htop, gnome-boxes, rpi-imager, net-tools, macchanger, cmatrix, shotcut and lynis.  Just to name a few.
+  If there are programs that my be added with snap for Ubuntu, I like to add them with snap if I can.
+
+
+
