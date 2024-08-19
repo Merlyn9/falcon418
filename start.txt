@@ -25,5 +25,7 @@ But I can mention them as they come up.
   I like Nmap, Git, VS Code, wireshark, htop, gnome-boxes, rpi-imager, net-tools, macchanger, cmatrix, shotcut and lynis.  Just to name a few.
   If there are programs that my be added with snap for Ubuntu, I like to add them with snap if I can.
 
+I also work the LAPP stack and like to throw that in the mix.  Cmatrix is a screen saver inspired by the movie the Matrix. I use to end all my scripts 
+to know when they have completed.  Cmatrix is also a good cover for keeping screens private.
 
 
