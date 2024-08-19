@@ -2,6 +2,7 @@
 Follow for more<br>
 Website: www.merlyndevelops.com<br>
 Email: merlyndevelops@gmail.com<br>
+Hashnode: https://merlyndevelops.hashnode.dev/<br>
 
 I know its not that big of a deal, I chose to have github as an outlet for my creative mind.   I used to hide and hoard my thoughts, and now I want to share.
 
