@@ -15,3 +15,4 @@ certain functions could possibly just a series of bash scripts if one wished.
 
 #I would love to start this success off with strong goals. I want to write a book, and I want to code a game.
 I beleive it would be outstanding in my portfolio. Also great experience I could maybe write a video about.
+
