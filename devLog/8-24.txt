@@ -12,3 +12,6 @@ With the security in mind to harden the system better each time you reset it. I 
 You could also write bash scripts to fill in databases, lists, and the list goes on.  Scripts are amazing when using Nmap,
 there are so many combinations to use to apply on any IP address.  JavaScript is also a viable option for full stack. Mixed Reviews.
 certain functions could possibly just a series of bash scripts if one wished.
+
+#I would love to start this success off with strong goals. I want to write a book, and I want to code a game.
+I beleive it would be outstanding in my portfolio. Also great experience I could maybe write a video about.
