@@ -16,5 +16,6 @@ certain functions could possibly just a series of bash scripts if one wished.
 #I would love to start this success off with strong goals. I want to write a book, and I want to code a game.
 I beleive it would be outstanding in my portfolio. Also great experience I could maybe write a video about.
 
-#Everyday I wake up looking to find ouf something new.  I have discovered they alot of IT jobs are filtered via AI.  So now I have to chamge my approach.  I feel like I would do better having found live people to confirm my resume.  
-
+#When I started my tech journey, I knew it wasn't going to be easy.  I understood I would have alot of competition.
+I know right now I am not the best.  But I have a passion to be number 1.  I know that if I perservere, I can be the developer
+everybody wants.  Proper motivation, right attitude, and special eye for presentation will allow anybody to succeed.
