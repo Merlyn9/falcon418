@@ -19,3 +19,5 @@ I beleive it would be outstanding in my portfolio. Also great experience I could
 #When I started my tech journey, I knew it wasn't going to be easy.  I understood I would have alot of competition.
 I know right now I am not the best.  But I have a passion to be number 1.  I know that if I perservere, I can be the developer
 everybody wants.  Proper motivation, right attitude, and special eye for presentation will allow anybody to succeed.
+
+# Refreshing on certain topics is never a bad idea. I heard someone say that Go is one of the easiest languages to learn. I want to  learn it I am doing a deep dive into backend, and I truly want to use a code base I could learn from.  As we start our journey I learned that it is a best practice to annotate your code base.  So in honor of that I am notating everything I commit. Furthermore, I will be notating my cose as I build it. Encouraging others as I do so. So that newcomers to the field may pick up a great habit. 
