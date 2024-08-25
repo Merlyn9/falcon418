@@ -29,3 +29,5 @@ everybody wants.  Proper motivation, right attitude, and special eye for present
 
 ##So i stumbled onto Golang. It proclaims to be the easiest language to learn, and boasts easiest to work with.  So I am going to give it a test run. I have worked with javascriot, and python in the past. Iwo der how different Go is. It also pro.otes its own ecosystem. which should be nice.
 I also read that it is most popular in getting hired. So alot of people are looking ti hire for it.
+
+#As I go further in my journey in tech, with pitfalls come rewards. I have learned so by trying to put together components and putting components together. Learning how it all works. From the databases to API's. Its an amazong ride.
