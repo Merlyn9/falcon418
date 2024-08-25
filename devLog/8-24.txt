@@ -26,3 +26,6 @@ everybody wants.  Proper motivation, right attitude, and special eye for present
  I will be notating my cose as I build it. Encouraging others as I do so. So that newcomers to the field may pick up a great habit. 
 
  #Ok, so the company i work for needs an app for the website. I am going to see if I can't bang one out of JavaScript. See how it goes, stay tuned for how it went.
+
+##So i stumbled onto Golang. It proclaims to be the easiest language to learn, and boasts easiest to work with.  So I am going to give it a test run. I have worked with javascriot, and python in the past. Iwo der how different Go is. It also pro.otes its own ecosystem. which should be nice.
+I also read that it is most popular in getting hired. So alot of people are looking ti hire for it.
