@@ -1,4 +1,5 @@
 devLog/8-24.txt
+
 #I have started this github repo not only to capture my work, but to build a corpus of work I could present from if I so needed.
 I have many ideas spinning in my head, and its easy to get confused, so running my ideas into a version control software is gonna do great.
 I can see my ideas come to life.spin up a couple servers if I must.  I dont't know why I didn't think of it sooner.
@@ -27,7 +28,7 @@ everybody wants.  Proper motivation, right attitude, and special eye for present
 
  #Ok, so the company i work for needs an app for the website. I am going to see if I can't bang one out of JavaScript. See how it goes, stay tuned for how it went.
 
-##So i stumbled onto Golang. It proclaims to be the easiest language to learn, and boasts easiest to work with.  So I am going to give it a test run. I have worked with javascriot, and python in the past. Iwo der how different Go is. It also pro.otes its own ecosystem. which should be nice.
+##So i stumbled onto Golang. It proclaims to be the easiest language to learn, and boasts easiest to work with.  So I am going to give it a test run. I have worked with javascript, and python in the past. Iwo der how different Go is. It also pro.otes its own ecosystem. which should be nice.
 I also read that it is most popular in getting hired. So alot of people are looking ti hire for it.
 
 #As I go further in my journey in tech, with pitfalls come rewards. I have learned so by trying to put together components and putting components together. Learning how it all works. From the databases to API's. Its an amazong ride.
