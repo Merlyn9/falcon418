@@ -34,4 +34,7 @@ I also read that it is most popular in getting hired. So alot of people are look
 
 ##Learning to code is an elite skill, it has many benefits.  You can learn for a long time and be a mid level dev, and have a better chance.  Take your time and assemble your portfolio. Turn out some work on github. You can have a website or two, maybe a couple of virtual servers on a cloud somewhere. Be ready to always do something amazing. Learn a coupke different programming languages.
 
-# What you might lack in work experience you can showcase in portfolio.  Think about full stack web application. Build components and put tuings together.
+# What you might lack in work experience you can showcase in portfolio.  Think about full stack web application. Build components and put things together.
+
+# So I basically put together a fullstack website, and use tools and different languages to see what is the easiest more funtional. All in the name of experience.
+LAMP, LAPP, MERN, and pure Javascript or Python, Or you can use Golang in the back end.  All amd all you we are getting experience.
