@@ -38,4 +38,6 @@ I also read that it is most popular in getting hired. So alot of people are look
 # What you might lack in work experience you can showcase in portfolio.  Think about full stack web application. Build components and put things together.
 
 # So I basically put together a fullstack website, and use tools and different languages to see what is the easiest more funtional. All in the name of experience.
-LAMP, LAPP, MERN, and pure Javascript or Python, Or you can use Golang in the back end.  All amd all you we are getting experience.
+LAMP, LAPP, MERN, and pure Javascript or Python, Or you can use Golang in the back end.  All & all you we are getting experience.
+
+# I currently have a pet project in which i have a migration to a new database. I wanna clone my companys website and run it cheaper the way they want it to run. Also add so.e fuctions they did not have previous. Its going to be great. Stay tuned
