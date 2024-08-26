@@ -31,3 +31,5 @@ everybody wants.  Proper motivation, right attitude, and special eye for present
 I also read that it is most popular in getting hired. So alot of people are looking ti hire for it.
 
 #As I go further in my journey in tech, with pitfalls come rewards. I have learned so by trying to put together components and putting components together. Learning how it all works. From the databases to API's. Its an amazong ride.
+
+##Learning to code is an elite skill, it has many benefits.  You can learn for a long time and be a mid level dev, and have a better chance.  Take your time and assemble your portfolio. Turn out some work on github. You can have a website or two, maybe a couple of virtual servers on a cloud somewhere. Be ready to always do something amazing. Learn a coupke different programming languages.
