@@ -40,4 +40,8 @@ I also read that it is most popular in getting hired. So alot of people are look
 # So I basically put together a fullstack website, and use tools and different languages to see what is the easiest more funtional. All in the name of experience.
 LAMP, LAPP, MERN, and pure Javascript or Python, Or you can use Golang in the back end.  All & all you we are getting experience.
 
-# I currently have a pet project in which i have a migration to a new database. I wanna clone my companys website and run it cheaper the way they want it to run. Also add so.e fuctions they did not have previous. Its going to be great. Stay tuned
+# I currently have a pet project in which i have a migration to a new database. I wanna clone my companys website and run it cheaper the way they want it to run. Also add so.e fuctions they did not have previous. Its going to be great. Stay tuned.
+
+#I discovered coreutils for linux, and O have been using some hut not exactly the better ones. So I was going to deep dive and research the best utils to use. I saw a video where a guy made a tier list of the the linux coreutils.  It was an informative video.
+
+#I just saw a video the gang of 4, they wfote a book about 23 programming design patterns that developers use in programming. If you are reading this because maybe you want to write code. You must read this book.
