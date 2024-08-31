@@ -1,0 +1,8 @@
+# New Log Cycle:
+# So I have been tasked with being a Linux Administraitor, and my newest user is switching from Windows.  He has never used Linux,
+and I want to help him transition easily. I am going to write some bash scripts for him, to automate certain tasks.  So he doesn't
+have to traverse the file system yet, seeing as he is new.  I can make these shortcuts for him, and eventually he will go and discover 
+on his own.  He is an elderly gentleman and doesn't want to get confused.  So I can make cron jobs do there things and run bash scripts 
+at certain times of the day to take care of needed tasks to run and maintain any computer.  He is running Ubuntu's Latest Noble Nombat,
+very beginner friendly. I use a program called Lynis to go over system hardening procedure with a fine tooth comb.  It does a very god job.
+I think more people should check that out, it work on all platforms.
