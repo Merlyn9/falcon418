@@ -44,8 +44,5 @@ LAMP, LAPP, MERN, and pure Javascript or Python, Or you can use Golang in the ba
 #I just saw a video the gang of 4, they wfote a book about 23 programming design patterns that developers use in programming. If you are reading this because maybe you want to write code. You must read this book.
 
 # There are alot of rabbit holes in tech you could go down.  The best advice is to niche in a technology. Databses, Linux, Cloud, are all great avenues. Pick one and double down.
-<<<<<<< HEAD
-
-=======
 
 # I enjoy Linux, and have enjoyed Linux since I switched from windows. I have enjoyed how to do more thing in my computer and IT is a great field.  So Maybe I was born to be a SysAdmin.  Who knows?  All I know is that the harder I push the easier it gets.
