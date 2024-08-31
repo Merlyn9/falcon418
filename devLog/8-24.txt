@@ -49,5 +49,3 @@ LAMP, LAPP, MERN, and pure Javascript or Python, Or you can use Golang in the ba
 =======
 
 # I enjoy Linux, and have enjoyed Linux since I switched from windows. I have enjoyed how to do more thing in my computer and IT is a great field.  So Maybe I was born to be a SysAdmin.  Who knows?  All I know is that the harder I push the easier it gets.
-
->>>>>>> ffd96d4b9faeaf62e72d81829aa6fb15f764d6fb
