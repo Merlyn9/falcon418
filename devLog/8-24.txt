@@ -1,8 +1,3 @@
-devLog/8-24.txt
-
-#I have started this github repo not only to capture my work, but to build a corpus of work I could present from if I so needed.
-I have many ideas spinning in my head, and its easy to get confused, so running my ideas into a version control software is gonna do great.
-I can see my ideas come to life.spin up a couple servers if I must.  I dont't know why I didn't think of it sooner.
 
 #I think its great great idea to sanitize your desktop every fortnight. I keep all of my important things on a removable HardDrive with a capacity of 2TB.
 it works out and as long as I use linux, nothing special to access my data.  I use Kali Linux and Ubuntu Desktop or server.  
@@ -49,5 +44,10 @@ LAMP, LAPP, MERN, and pure Javascript or Python, Or you can use Golang in the ba
 #I just saw a video the gang of 4, they wfote a book about 23 programming design patterns that developers use in programming. If you are reading this because maybe you want to write code. You must read this book.
 
 # There are alot of rabbit holes in tech you could go down.  The best advice is to niche in a technology. Databses, Linux, Cloud, are all great avenues. Pick one and double down.
+<<<<<<< HEAD
+
+=======
 
 # I enjoy Linux, and have enjoyed Linux since I switched from windows. I have enjoyed how to do more thing in my computer and IT is a great field.  So Maybe I was born to be a SysAdmin.  Who knows?  All I know is that the harder I push the easier it gets.
+
+>>>>>>> ffd96d4b9faeaf62e72d81829aa6fb15f764d6fb
