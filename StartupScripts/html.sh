@@ -1,10 +1,7 @@
 !# /bin/bash
 
-echo "<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ # This bash script will produce a file called file.html. You can open that file with a web browser to see it as an HTML.
+ meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Instant Deployment</title>
 </head>
 <body>
