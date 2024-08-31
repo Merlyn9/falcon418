@@ -1,4 +1,5 @@
 !# /bin/bash
+
 sudo apt update -y
 sudo apt install nmap liblinear-tools liblinear-dev ncat ndiff zenmap netcat steghide stegcracker -y
 sudo apt-get install git-all -y
