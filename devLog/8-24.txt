@@ -44,6 +44,8 @@ LAMP, LAPP, MERN, and pure Javascript or Python, Or you can use Golang in the ba
 
 #I discovered coreutils for linux, and O have been using some hut not exactly the better ones. So I was going to deep dive and research the best utils to use. I saw a video where a guy made a tier list of the the linux coreutils.  It was an informative video.
 
+# I have an oppurtunity coming up to help out with Linux Admin. I know Linux pretty good, I switched a couple year back. I believe in myself to help other get started in the OS with out confusing them. I can write little programs to make it easier for other to use the software. With out the shadow of the unknown cloud  over them.  This is a labor of love to me,  I love to learn and learn how it may help others, then share with them so they may go and do.  Circle of Life I guess.
+
 #I just saw a video the gang of 4, they wfote a book about 23 programming design patterns that developers use in programming. If you are reading this because maybe you want to write code. You must read this book.
 
 # There are alot of rabbit holes in tech you could go down.  The best advice is to niche in a technology. Databses, Linux, Cloud, are all great avenues. Pick one and double down.
