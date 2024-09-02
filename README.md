@@ -12,6 +12,6 @@ My favorite OS's are Kali Linux and Ubuntu Desktop and Server
 When you use github, you can download your entire repository from the internet to a zip file.
 Then extract that file on computer or other device.
 
-If you or you know somebody who wnats to learn go here to learn more about JavaScript<br>
+If you or you know somebody who wants to learn, go here to learn more about JavaScript<br>
 https://developer.mozilla.org/en-US/curriculum/<br>
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide
