@@ -7,3 +7,4 @@ at certain times of the day to take care of needed tasks to run and maintain any
 very beginner friendly. I use a program called Lynis to go over system hardening procedure with a fine tooth comb.  It does a very god job.
 I think more people should check that out, it work on all platforms.
 #I know PHP was al the rage back in the day, and I hear its making a come back. PHP looks alot easier than most scripting language models. I also found PHP has ways of writing code to be more secure.
+#I also think learning OG PHP mught help me better learn a bit a history, or just better how to put it all together. Jokes on me, I should have started tech 15 years ago.
